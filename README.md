@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=时代变了，但有些事情可还没变呢，大人&center=true&size=24"> </a> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=时代变了，但有些事情可还没变呢，大人&center=true&size=21"> </a> </h1>
